@@ -6,8 +6,8 @@ Prediction
 sstpie and sonia17
 
 Files included:
-ARIMA
-SVR
-Random Forest
-LSTM - one feature
+ARIMA,
+SVR,
+Random Forest,
+LSTM - one feature,
 LSTM - two features
