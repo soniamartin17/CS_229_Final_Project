@@ -1,5 +1,5 @@
 # CS 229 Final Project
-Fall 2021
+Fall 2021,
 California Locational Marginal Electricity Price
 Prediction
 
